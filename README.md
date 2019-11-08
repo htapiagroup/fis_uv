@@ -1,5 +1,16 @@
 # fis_uv
-Repositorio de cosas para fis uv
+Template Repository for all things UV
+
+General directory structure is
+
+--Nombre Curso/Projecto
+|----Tema o Seccion
+|----|---Libretas
+|----|---Ejercicis
+|----|---Recursos
+
+
+io de cosas para fis uv
 
 Este repositorio contiene recursos como libretas de jupyter o mathematica, enlaces a recursos, articulos, etc., para los cursos y eventos de la carrera de fisica de la uv
 
